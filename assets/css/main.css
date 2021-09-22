@@ -1,21 +1,26 @@
 body{
-background-color: ;
+     font-family: 'Nunito', sans-serif;
+font-family: 'Poppins', sans-serif;
+background-color:hotpink;
 }
-.thelife{
+.thelife {
 background-color: red;
 }
-.thecareers{
+.thecareers {
 background-color: blue;
 }
-.thebusiness{
+.thebusiness {
 background-color: yellow;
 }
-.themoveisgood{
+.themoveisgood {
 background-color: green;
 }
 .theadaptation{
 background-color: purple;
 }
-.thedancing{
+.Thedancing {
 background-color: orange;
+}
+h1,h3 {
+    font-family: 'Poppins', sans-serif;
 }
